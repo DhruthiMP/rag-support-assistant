@@ -1,5 +1,7 @@
 venv/
 __pycache__/
+db/
 chroma_db/
-.env
+*.bin
+*.sqlite3
 *.swp
