@@ -1,0 +1,22 @@
+Customer Support Knowledge Base
+
+1. Password Reset:
+To reset your password:
+- Go to login page
+- Click Forgot Password
+- Enter your email
+- Follow instructions sent to email
+
+2. Refund Policy:
+- Refunds allowed within 7 days
+- Product must be unused
+- Contact support for refund
+
+3. Order Tracking:
+- Login to account
+- Go to My Orders
+- Click Track Order
+
+4. Contact:
+Email: support@example.com
+Phone: +91-9876543210
